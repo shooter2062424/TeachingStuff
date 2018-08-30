@@ -18,7 +18,7 @@
     *   Python side:  
         *   don't forget to change com port!  
 
-![Alt text]()
+![image](https://github.com/shooter2062424/TeachingStuff/blob/master/Python/Radar/radar.jpg)
 
 *   Special thanks for "mohammad-ammar", who I revised the Python GUI code from  
     *   link: https://github.com/mohammad-ammar/radar/tree/master/gui  
